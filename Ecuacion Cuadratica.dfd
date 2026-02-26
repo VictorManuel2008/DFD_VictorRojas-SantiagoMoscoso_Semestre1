@@ -1,0 +1,55 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+53
+'Resolucion de ecuacion cuadratica ax^2 + bx + c = 0'
+4
+1
+18
+'Ingrese a, b y c'
+5
+1
+7
+a, b, c
+6
+2
+1
+d
+16
+b ^2 - 4 * a * c
+1
+e
+5
+2 * a
+7
+0
+1
+3
+d=0
+7
+0
+1
+3
+d>0
+4
+1
+65
+'X1 =',-b/e,'+',sqrt(-d)/e,'i','  X2 = ',-b/e,'-',sqrt(-d)/e,'i' 
+13
+4
+1
+48
+'X1 = ', (-b + sqrt8d)/e,'  X2 = ',(b-sqrt(d))/e
+13
+13
+4
+1
+17
+'X1 = X2 = ',-b/e
+13
+1
